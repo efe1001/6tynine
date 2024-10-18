@@ -1,0 +1,16 @@
+<html>
+  <head> </head>
+
+  <body>
+    PromotedEnd : <p style="font-size: large" id="demo"></p>
+    <script>
+      const currentTime = Math.floor(Date.now() / 1000);
+      const daysAdded = 86400 * 7;
+      const promotedEnd = currentTime + daysAdded;
+
+      console.log(currentTime);
+
+      document.getElementById("demo").innerHTML = promotedEnd;
+    </script>
+  </body>
+</html>
