@@ -1,0 +1,43 @@
+.escort-register-wrapper{
+    margin: 20px;
+
+}
+
+.escort-register-bk {
+    background: #f3f6ff;
+    padding: 20px;
+    border: 1px solid #2952cc;
+    border-radius: 10px;
+}
+
+.register-fields {
+    margin: 10px;
+}
+
+.register-fields > label {
+    font-size:17px;
+    font-weight: bold;
+
+}
+
+.register-fields > input {
+    padding: 12px;
+    display: block;
+    margin: 10px;
+    width: 90%;
+    border-radius: 10px;
+}
+
+.register-fields > select {
+
+    padding: 12px;
+    display: block;
+    margin: 10px;
+    width: 90%;
+    border-radius: 10px;
+
+}
+
+.escort-register-wrapper > p {
+    color: #000;
+}

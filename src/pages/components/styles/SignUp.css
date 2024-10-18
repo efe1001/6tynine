@@ -1,0 +1,41 @@
+.signup-card{
+    padding: 10px;
+}
+
+.signup-title {
+    background: linear-gradient(#f6769b, #AA336A);
+    font-size: 18px;
+    text-align: center;
+    padding: 14px 10px;
+    border-radius: 2px 2px 0 0;
+    color: #fff;
+    font-weight: bold;
+    
+}
+
+.signup-bk {
+    padding: 10px;
+}
+
+.signup-bk > p {
+    margin: 10px;
+}
+
+.signup-card-bottom {
+    text-align: center;
+}
+
+.signup-card-bottom > p {
+    font-size: 20px;
+}
+
+/* ESCORT REGISTER SIGNUP */
+.escort-register-wrapper {
+
+}
+
+.escort-register-wrapper > p {
+    color: #fff;
+    font-size: 30px;
+    margin: 20px;
+}

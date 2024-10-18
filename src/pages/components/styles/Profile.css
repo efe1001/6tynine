@@ -1,0 +1,15 @@
+.profile-container{
+    border: 1px solid purple;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.profile-container > div {
+    margin: 10px;
+}
+
+.profile-container > div > label {
+    font-size: 10px;
+}
